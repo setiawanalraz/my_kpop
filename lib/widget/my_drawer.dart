@@ -74,7 +74,7 @@ class MyDrawer extends StatelessWidget {
                   Text(
                     "Berita Utama",
                     style: GoogleFonts.roboto(
-                      fontWeight: FontWeight.w600,
+                      fontWeight: FontWeight.bold,
                       color: Colors.pink,
                     ),
                   ),
@@ -105,7 +105,7 @@ class MyDrawer extends StatelessWidget {
                   Text(
                     "Keluar",
                     style: GoogleFonts.roboto(
-                      fontWeight: FontWeight.w600,
+                      fontWeight: FontWeight.bold,
                       color: Colors.blue,
                     ),
                   ),
